@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500&family=Poppins:wght@200&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+header a{
+    font-family: cursive;
+    font-size: 0.9em;
+ color:whitesmoke
+    
+
+}
+header,main{
+    background:linear-gradient(gray,green,gray);
+    margin-bottom: 50px;
+
+    
+}
+footer{
+    background: black;
+}
+.column{
+    color: orangered;
+   word-spacing: 10px;
+   font-size: 15px;
+}
+span{
+    color: orangered;
+}
